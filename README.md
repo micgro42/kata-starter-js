@@ -28,4 +28,3 @@ npm run test:watch
 npm run test:cover
 ```
 
-Note: coverage is also included in watch mode.
